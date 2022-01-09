@@ -1,0 +1,31 @@
+body {
+margin: 0;
+} 
+
+.main {
+  background-Color: #FF5733;
+  height: 100%; 
+  min-height: 100vh;
+}
+
+.loaderWrapper {
+  padding: 16px;
+  display:flex;
+  align-items:center;
+  flex-wrap: wrap;
+  justify-content:center;
+}
+
+.loaderBox {
+  margin: 16px;
+  padding:8px;
+  border: 1px solid white;
+  border-radius: 4px;
+  background-color: white;
+  text-align:center;
+}
+
+.loaderBox span {
+  margin: 8px;
+  display:block-inline
+}
