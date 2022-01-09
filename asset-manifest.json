@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-loader-spinner-example/static/css/main.6f6d4425.chunk.css",
+    "main.js": "/react-loader-spinner-example/static/js/main.3fbbe854.chunk.js",
+    "main.js.map": "/react-loader-spinner-example/static/js/main.3fbbe854.chunk.js.map",
+    "runtime-main.js": "/react-loader-spinner-example/static/js/runtime-main.d6c1860c.js",
+    "runtime-main.js.map": "/react-loader-spinner-example/static/js/runtime-main.d6c1860c.js.map",
+    "static/css/2.3f1cd48b.chunk.css": "/react-loader-spinner-example/static/css/2.3f1cd48b.chunk.css",
+    "static/js/2.1165d97e.chunk.js": "/react-loader-spinner-example/static/js/2.1165d97e.chunk.js",
+    "static/js/2.1165d97e.chunk.js.map": "/react-loader-spinner-example/static/js/2.1165d97e.chunk.js.map",
+    "index.html": "/react-loader-spinner-example/index.html",
+    "static/css/2.3f1cd48b.chunk.css.map": "/react-loader-spinner-example/static/css/2.3f1cd48b.chunk.css.map",
+    "static/css/main.6f6d4425.chunk.css.map": "/react-loader-spinner-example/static/css/main.6f6d4425.chunk.css.map",
+    "static/js/2.1165d97e.chunk.js.LICENSE.txt": "/react-loader-spinner-example/static/js/2.1165d97e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6c1860c.js",
+    "static/css/2.3f1cd48b.chunk.css",
+    "static/js/2.1165d97e.chunk.js",
+    "static/css/main.6f6d4425.chunk.css",
+    "static/js/main.3fbbe854.chunk.js"
+  ]
+}
