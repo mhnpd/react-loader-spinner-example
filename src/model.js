@@ -29,7 +29,7 @@ export const data = [
     props: {
       color: '#FF5733',
     },
-    name: 'Ball Triangle',
+    name: 'BallTriangle',
   },
   {
     Component: BallTriangle,
@@ -37,7 +37,7 @@ export const data = [
       color: '#FF5733',
       radius: 1,
     },
-    name: 'Ball Triangle',
+    name: 'BallTriangle',
   },
   {
     Component: Bars,
@@ -46,7 +46,7 @@ export const data = [
       height: 100,
       width: 110,
     },
-    name: 'Ball Triangle',
+    name: 'Bars',
   },
   {
     Component: Circles,
@@ -55,7 +55,7 @@ export const data = [
       height: 100,
       width: 110,
     },
-    name: 'Ball Triangle',
+    name: 'Circles',
   },
   {
     Component: Grid,
@@ -175,7 +175,7 @@ export const data = [
       color: '#FF5733',
       height: 100,
       width: 110,
-      radius:40,
+      radius: 40,
     },
     name: 'Watch',
   }
